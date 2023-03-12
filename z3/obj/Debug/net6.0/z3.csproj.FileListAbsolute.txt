@@ -1,0 +1,15 @@
+D:\GB\Znakomstvo9\z3\bin\Debug\net6.0\z3.exe
+D:\GB\Znakomstvo9\z3\bin\Debug\net6.0\z3.deps.json
+D:\GB\Znakomstvo9\z3\bin\Debug\net6.0\z3.runtimeconfig.json
+D:\GB\Znakomstvo9\z3\bin\Debug\net6.0\z3.dll
+D:\GB\Znakomstvo9\z3\bin\Debug\net6.0\z3.pdb
+D:\GB\Znakomstvo9\z3\obj\Debug\net6.0\z3.csproj.AssemblyReference.cache
+D:\GB\Znakomstvo9\z3\obj\Debug\net6.0\z3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Znakomstvo9\z3\obj\Debug\net6.0\z3.AssemblyInfoInputs.cache
+D:\GB\Znakomstvo9\z3\obj\Debug\net6.0\z3.AssemblyInfo.cs
+D:\GB\Znakomstvo9\z3\obj\Debug\net6.0\z3.csproj.CoreCompileInputs.cache
+D:\GB\Znakomstvo9\z3\obj\Debug\net6.0\z3.dll
+D:\GB\Znakomstvo9\z3\obj\Debug\net6.0\refint\z3.dll
+D:\GB\Znakomstvo9\z3\obj\Debug\net6.0\z3.pdb
+D:\GB\Znakomstvo9\z3\obj\Debug\net6.0\z3.genruntimeconfig.cache
+D:\GB\Znakomstvo9\z3\obj\Debug\net6.0\ref\z3.dll
